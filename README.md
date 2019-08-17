@@ -1,0 +1,4 @@
+# Predicting-Airbnb-Prices
+### A datascience investigation into predicting airbnb prices
+
+Airbnb is an online accommodation marketplace that specialises in short term stays in private residences. Their marketplace provides access to over 6 million unique properties in nearly 100,000 cities and 191 countries. Founded in 2008, this hospitality company is the go-to for renting and short-term stays. The company is interested in developing a service that will compute recommended prices for any listing depending on its features. This project aims to predict the nightly price of Airbnb properties across the greater Melbourne region. The dataset is directly from Airbnb and contains information on 7000 listings with variables such as property type, bedrooms, bathrooms etc. A range of machine learning algorithms will be utilised in formulating a robust prediction model.
